@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['send_133',['send',['../classcppu_1_1Socket.html#aeac77f859159715e2d63a5a0dc118788',1,'cppu::Socket']]],
+  ['sendto_134',['sendTo',['../classcppu_1_1Socket.html#a31ff5137959aa4e52d4bcdd53e0b0069',1,'cppu::Socket']]],
+  ['serversocket_135',['serverSocket',['../classcppu_1_1TCPServer.html#a6428b63a4440045050dba4f33bb454bf',1,'cppu::TCPServer::serverSocket()'],['../classcppu_1_1ServerSocket.html#a57138f5a7d2e8af35228c8985385c494',1,'cppu::ServerSocket::ServerSocket()']]],
+  ['setaddress_136',['setAddress',['../classcppu_1_1Socket.html#aec26c9f6372f7ed2ec383fc98cbb6458',1,'cppu::Socket']]],
+  ['setcallback_137',['setCallback',['../classcppu_1_1TCPServer.html#a7d4fdb93439015934004755fde72945b',1,'cppu::TCPServer::setCallback(T &amp;object, bool(T::*method)(TCPConnection &amp;cnx, const std::string &amp;request, std::string &amp;response))'],['../classcppu_1_1TCPServer.html#a94d3d97b03d5e3e48609e405d8dd7897',1,'cppu::TCPServer::setCallback(Callback &amp;callback)']]],
+  ['setduration_138',['setduration',['../classVideo.html#a662808d9ee22e467f394fa2d0ce71f6b',1,'Video']]],
+  ['setfilename_139',['setfilename',['../classMultimedia.html#a9322f8c6d17c3fccd43095ba88d2b29d',1,'Multimedia']]],
+  ['setinputseparator_140',['setInputSeparator',['../classcppu_1_1SocketBuffer.html#acadf4540c1e3eba67b014753b84b482c',1,'cppu::SocketBuffer']]],
+  ['setlatitude_141',['setlatitude',['../classPhoto.html#a47d8f677acdf6dceb3dc359ee97559ae',1,'Photo']]],
+  ['setlocaladdress_142',['setLocalAddress',['../classcppu_1_1Socket.html#a73d529332eae6048b321b381354e6bea',1,'cppu::Socket']]],
+  ['setlongitude_143',['setlongitude',['../classPhoto.html#a90570fdfba7ffc850f65187e26ca3432',1,'Photo']]],
+  ['setname_144',['setname',['../classMultimedia.html#a927689de60e4164dde53a5b33e334e0f',1,'Multimedia']]],
+  ['setoutputseparator_145',['setOutputSeparator',['../classcppu_1_1SocketBuffer.html#a0e5e6a9ce3bda28b65c559c8b3c91b0f',1,'cppu::SocketBuffer']]],
+  ['setreceivebuffersize_146',['setReceiveBufferSize',['../classcppu_1_1Socket.html#af172d5c78f63713988b0a6bf66851be7',1,'cppu::Socket::setReceiveBufferSize()'],['../classcppu_1_1ServerSocket.html#a0fbd0ee42bcfecf2e749279c4b94b0b3',1,'cppu::ServerSocket::setReceiveBufferSize()']]],
+  ['setreuseaddress_147',['setReuseAddress',['../classcppu_1_1Socket.html#a27b7fe34e172ad1f97c304d2786f624a',1,'cppu::Socket::setReuseAddress()'],['../classcppu_1_1ServerSocket.html#a09d0494cc0f65abe496b9c940d2920ed',1,'cppu::ServerSocket::setReuseAddress()']]],
+  ['setsendbuffersize_148',['setSendBufferSize',['../classcppu_1_1Socket.html#aefda954454d860fa6a6d41b3d5cd26db',1,'cppu::Socket']]],
+  ['setsolinger_149',['setSoLinger',['../classcppu_1_1Socket.html#ae87eb0335c072f765bf2b6a47162e7f5',1,'cppu::Socket']]],
+  ['setsotimeout_150',['setSoTimeout',['../classcppu_1_1Socket.html#ae5dea30a1cae2dbdbdaf11a9f7ffa444',1,'cppu::Socket::setSoTimeout()'],['../classcppu_1_1ServerSocket.html#a0ceb984eab0cdd9c7c8e62658a521175',1,'cppu::ServerSocket::setSoTimeout()']]],
+  ['settcpnodelay_151',['setTcpNoDelay',['../classcppu_1_1Socket.html#a6b29a9e12926b07f65b8dc52176131c5',1,'cppu::Socket::setTcpNoDelay()'],['../classcppu_1_1ServerSocket.html#ac5f6da333208cce9ca4d5392259a0a6b',1,'cppu::ServerSocket::setTcpNoDelay()']]],
+  ['shutdowninput_152',['shutdownInput',['../classcppu_1_1Socket.html#a06c6838f267e5a0ba74558da946efb90',1,'cppu::Socket']]],
+  ['shutdownoutput_153',['shutdownOutput',['../classcppu_1_1Socket.html#a97ee9ef3bf9fdecd6ae6f2b583b34d0e',1,'cppu::Socket']]],
+  ['socket_154',['Socket',['../classcppu_1_1Socket.html#ae73b9b629fe443f650203d938f61a279',1,'cppu::Socket::Socket(int type=SOCK_STREAM)'],['../classcppu_1_1Socket.html#a8404e4e80cc625a4be32aacc879bb237',1,'cppu::Socket::Socket(int type, int sockfd)'],['../classcppu_1_1SocketBuffer.html#aab887b32ee999bfdd01c9a491c04bd61',1,'cppu::SocketBuffer::socket()']]],
+  ['socketbuffer_155',['SocketBuffer',['../classcppu_1_1SocketBuffer.html#a1d6a8ae90bfcb69e6b3d2b9f97e3dc40',1,'cppu::SocketBuffer']]]
+];
